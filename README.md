@@ -1,4 +1,5 @@
 # code_generator
-genetrate password with word to 8 lengh
+genetrate password with punc, digit, lowercasw and uppercase .
+the lengh of password on your hand
 
 run and show you the password!!!
