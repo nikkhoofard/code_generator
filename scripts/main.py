@@ -33,4 +33,3 @@ if __name__ == '__main__':
     print(create_password(args.length, args.upper, args.lower, args.digit, args.punc))
 
 
-
